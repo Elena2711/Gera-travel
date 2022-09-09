@@ -18,7 +18,7 @@ body 		{
 	margin: 0 35px;
 	text-decoration: none;
 	color: black;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 90px;
 	font-weight: bold;
 	display: inline-block;
@@ -115,6 +115,12 @@ font-size: 30px;
 	font-size:30px;
 	margin-bottom: 10px ;
 }
+/*ТОВАРЫ*/
+.section_subtitle{
+font-size: 40px;
+}
+
+
 .cards {
 	text-align: center;
 }
